@@ -463,7 +463,7 @@ export default {
         {
           nombre: 'Erika Fernanda Mejía Pinzón',
           cargo: 'Evaluadora para contenidos inclusivos y accesibles',
-          centro: 'Centro Agroturístico - Regional Santander',
+          centro: 'Centro Agroturístico - Regional Santande',
         },
       ],
     },
