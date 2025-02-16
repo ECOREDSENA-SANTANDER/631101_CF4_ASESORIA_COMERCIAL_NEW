@@ -21,20 +21,20 @@
     p De acuerdo con el tamaño del punto de venta y la cantidad de productos que hacen parte del inventario, el surtido se puede estructurar u ordenar en una serie de grupos o niveles que permiten su identificación, clasificación e incluso la localización en el punto de venta. Algunas formas de estructurar el surtido son:
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-      .py-2
-      .col-lg-2.col-5.mb-3
-        img(src='@/assets/curso/temas/Tema3/1.png', alt='tema1')
-      .col-lg-2.col-5.mb-3
-        img(src='@/assets/curso/temas/Tema3/2.png', alt='tema1')
-      .col-lg-2.col-5.mb-3
-        img(src='@/assets/curso/temas/Tema3/3.png', alt='tema1')
-      .col-lg-2.col-5.mb-3
-        img(src='@/assets/curso/temas/Tema3/4.png', alt='tema1')
-      .col-lg-2.col-5.mb-3
-        img(src='@/assets/curso/temas/Tema3/5.png', alt='tema1')
-      .col-lg-2.col-5.mb-3
-        img(src='@/assets/curso/temas/Tema3/6.png', alt='tema1')
+      .col-lg-2.col-8.col-md-6
+        h4.bord-azul.text-center.p-4 Departamentos
+      .col-lg-2.col-8.col-md-6
+        h4.bord-azul.text-center.p-4 Secciones
+      .col-lg-2.col-7.col-md-6
+        h4.bord-azul.text-center.p-4 Categorías de productos
+      .col-lg-2.col-8.col-md-6
+        h4.bord-azul.text-center.p-4 Familias
+      .col-lg-2.col-8.col-md-6
+        h4.bord-azul.text-center.p-4 Subfamilias
+      .col-lg-2.col-8.col-md-6
+        h4.bord-azul.text-center.p-4 Referencias
 
+  
     separador
     #t_3_2.titulo-segundo.mb-4
       h2  3.2. Dimensiones del surtido
@@ -53,7 +53,19 @@
       h2  3.3. Clasificación del surtido
 
     p El surtido tiene la siguiente clasificación de acuerdo con su estructura:
-
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
+      .col-lg-2
+        h3.bord-amar.text-center.p-3 Departamentos
+      .col-lg-2
+        h3.bord-amar.text-center.p-3 Sección
+      .col-lg-2
+        h3.bord-amar.text-center.p-3 Categoría
+      .col-lg-2
+        h3.bord-amar.text-center.p-3 Familia
+      .col-lg-2
+        h3.bord-amar.text-center.p-3 Subfamilia
+      .col-lg-2
+        h3.bord-amar.text-center.p-3 Referencia
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
       .col-lg-12
         .titulo-sexto.color-secundario.mb-5
@@ -101,7 +113,8 @@
         .bloque-texto-b.p-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            p.mb-0 Según Diez de Castro (2006):
+            p.mb-2 Según Diez de Castro (2006):
+            br
             br
             p Las cualidades del surtido se pueden medir a través de cuatro factores: 
             br

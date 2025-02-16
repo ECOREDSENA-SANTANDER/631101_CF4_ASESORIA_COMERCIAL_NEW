@@ -383,23 +383,112 @@
         .cajon.color-acento-contenido.p-4.mb-4
           p La propuesta de ciclo de vida del producto, se le atribuye a Theodore Levitt, publicado en la Harvard Bussines Review. De acuerdo con la teoría de Levitt los productos tienen un ciclo de vida en relación con su permanencia en el mercado, por tanto, podemos hablar de cinco etapas como: desarrollo de producto, introducción, Crecimiento, Madurez y Declive o decadencia. 
 
-      .col-lg-8.mb-4
-        img(src='@/assets/curso/temas/Tema2/img21.svg' alt='')
+      .col-lg-9.mb-4
+        ImagenInfografica.color-acento-botones.mb-5
+          template(v-slot:imagen)
+            figure
+              img(src='@/assets/curso/temas/Tema2/img21.svg', alt='')
 
-      .col-lg-8.mb-4
-        img(src='@/assets/curso/temas/Tema2/img22.svg' alt='')
+          .tarjeta.color-secundarioo.p-3(x="17%" y="71%" numero="")
+            p La etapa de #[b desarrollo del producto], es una etapa previa a la introducción, incluye las fases como la investigación de mercados, el diseño de producto, prototipado, test de usuario, entre otras actividades que identifican la viabilidad del producto. En esta etapa no se generan ingresos o utilidades.
 
-      .col-lg-8.mb-4
-        img(src='@/assets/curso/temas/Tema2/img23.svg' alt='')
-      
-      .col-lg-8.mb-4
-        img(src='@/assets/curso/temas/Tema2/img24.svg' alt='')
+          .tarjeta.color-secundarioo.p-3(x="38%" y="71%" numero="")
+            p Aspectos clave en la etapa de #[b introducción:]
+            ul.lista-ul--color
+              li.d-flex.mb-0 
+                i.fas.fa-check-circle
+                span.mb-0 Lento crecimiento de ventas
+              li.d-flex.mb-0 
+                i.fas.fa-check-circle
+                span.mb-0 Las utilidades son negativas o mínimas 
+              li.d-flex.mb-0 
+                i.fas.fa-check-circle
+                span.mb-0 Altos gastos de distribución y promoción.
+            
 
-      .col-lg-8.mb-4
-        img(src='@/assets/curso/temas/Tema2/img25.svg' alt='')
-      
-      .col-lg-8.mb-4
-        img(src='@/assets/curso/temas/Tema2/img26.svg' alt='')
+          .tarjeta.color-secundarioo.p-3(x="53%" y="71%" numero="")
+            p Aspectos clave en la etapa de #[b crecimiento.]
+            ul.lista-ul--color
+              li.d-flex.mb-0 
+                i.fas.fa-check-circle
+                span.mb-0 Incremento en las ventas
+              li.d-flex.mb-0 
+                i.fas.fa-check-circle
+                span.mb-0 #[b Ingreso de nuevos competidores]
+              li.d-flex.mb-0 
+                i.fas.fa-check-circle
+                span.mb-0 Estabilidad o disminución de precios
+              li.d-flex.mb-0 
+                i.fas.fa-check-circle
+                span.mb-0 #[b Educación de los consumidores]
+              li.d-flex.mb-0 
+                i.fas.fa-check-circle
+                span.mb-0 Aumento de las utilidades
+              li.d-flex.mb-0 
+                i.fas.fa-check-circle
+                span.mb-0 Los costos de promoción y producción alcanzan economía a escala.
+          
+         
+          .tarjeta.color-secundarioo.p-4(x="67%" y="71%" numero="")
+            SlyderF(columnas="col-lg-12 col-xl-12 col-md-12").mb-2
+              .row.justify-content-center
+                .col-12.col-lg-12
+                  p Aspectos clave en la etapa de #[b madurez. ]
+                  ul.lista-ul--color
+                    li.d-flex.mb-0.p-1
+                      i.fas.fa-check-circle
+                      span.mb-0 Disminución del crecimiento en las ventas.
+                    li.d-flex.mb-0.p-1
+                      i.fas.fa-check-circle
+                      span.mb-0 Muchos proveedores
+                    li.d-flex.mb-0.p-1
+                      i.fas.fa-check-circle
+                      span.mb-0 #[b Productos sustitutos]
+                    li.d-flex.mb-0.p-2
+                      i.fas.fa-check-circle
+                      span.mb-0 Exceso de capacidad fomenta mayor competencia.
+                    li.d-flex.mb-0.p-1
+                      i.fas.fa-check-circle
+                      span.mb-0 #[b Mayor promoción, investigación y desarrollo para apoyar las ventas y aumentar las utilidades.]
+              .row.justify-content-center
+                .col-12.col-lg-12
+                  p  #[b Acciones ]
+                  ul.lista-ul--color
+                    li.d-flex.mb-1
+                      i.fas.fa-check-circle
+                      span.mb-1 Mercado
+                    li.d-flex.mb-1
+                      i.fas.fa-check-circle
+                      span.mb-0 Producto
+                    li.d-flex.mb-1
+                      i.fas.fa-check-circle
+                      span.mb-0 Mezcla de marketing
+
+          .tarjeta.color-secundarioo.p-4(x="81%" y="71%" numero="")
+            SlyderF(columnas="col-lg-12 col-xl-12 col-md-12").mb-2
+              .row.justify-content-center
+                .col-12.col-lg-12
+                  p Aspectos clave en la etapa de #[b declive o decadencia.]
+                  ul.lista-ul--color
+                    li.d-flex.mb-0.p-2
+                      i.fas.fa-check-circle
+                      span.mb-0 Aumento de gastos
+                    li.d-flex.mb-0.p-2
+                      i.fas.fa-check-circle
+                      span.mb-0 Disminución considerable de ventas, utilidades y posicionamiento.
+              .row.justify-content-center
+                .col-12.col-lg-12
+                  p  #[b Acciones ]
+                  ul.lista-ul--color
+                    li.d-flex.mb-1.p-1
+                      i.fas.fa-check-circle
+                      span.mb-1 Mantener el producto
+                    li.d-flex.mb-1.p-1
+                      i.fas.fa-check-circle
+                      span.mb-0 Innovación / Extensión
+                    li.d-flex.mb-1.p-1
+                      i.fas.fa-check-circle
+                      span.mb-0 Descartar el producto
 
 
 

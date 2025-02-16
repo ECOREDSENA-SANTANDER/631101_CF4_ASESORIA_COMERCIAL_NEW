@@ -18,21 +18,22 @@
       h2 4.1. Atributos del servicio
 
     p.mb-5 Los atributos del servicio son la filosofía o principios fundamentales que soportan el proceso de interacción entre el prestador de servicio con el cliente y consolidarlo sobre la base de la confianza y la ética. Entre los atributos tenemos:
-        
+
+
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-      .col-lg-2.col-5.mb-3
-        img(src='@/assets/curso/temas/Tema4/1.png', alt='')
-      .col-lg-2.col-5.mb-3
-        img(src='@/assets/curso/temas/Tema4/2.png', alt='')
-      .col-lg-2.col-5.mb-3
-        img(src='@/assets/curso/temas/Tema4/3.png', alt='')
-      .col-lg-2.col-5.mb-3
-        img(src='@/assets/curso/temas/Tema4/4.png', alt='')
-      .col-lg-2.col-5.mb-3
-        img(src='@/assets/curso/temas/Tema4/5.png', alt='')
-      .col-lg-2.col-5.mb-3
-        img(src='@/assets/curso/temas/Tema4/6.png', alt='')
-    
+      .col-lg-2.col-7.col-md-4
+        h3.bord-azul.text-center.p-3 Actitud de servicio
+      .col-lg-2.col-7.col-md-4
+        h3.bord-azul.text-center.p-3 Satisfacción del usuario
+      .col-lg-2.col-7.col-md-4
+        h3.bord-azul.text-center.p-3 Actitud positiva
+      .col-lg-2.col-7.col-md-4
+        h3.bord-azul.text-center.p-3 Ética
+      .col-lg-2.col-7.col-md-4
+        h3.bord-azul.text-center.p-3 Gusto por el servicio
+      .col-lg-2.col-7.col-md-4
+        h3.bord-azul.text-center.p-3 Continuidad
+
     separador
     #t_4_2.titulo-segundo.mb-4
       h2 4.2. Características del servicio
