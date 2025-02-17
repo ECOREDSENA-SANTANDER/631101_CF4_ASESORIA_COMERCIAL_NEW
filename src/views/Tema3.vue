@@ -8,7 +8,7 @@
       h1 El surtido
     
     .row.justify-content-center.align-items-center(data-aos="fade-left")
-      .col-lg-4.col-8.mb-3
+      .col-lg-4.col-6.mb-3
         img(src='@/assets/curso/temas/Tema3/img01.png', alt='tema1')
       .col-lg-8
         p Puede definirse el surtido como el “conjunto de artículos o referencias que se ofrecen en un establecimiento comercial para satisfacer unas determinadas necesidades o deseos de su clientela, constituyéndose así un posicionamiento estratégico en el mercado y permitiendo al detallista obtener unos resultados que rentabilicen su inversión” (Palomares, 2000).
