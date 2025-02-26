@@ -67,7 +67,7 @@
               
               tr
                 td.text-center Presentaciones
-                td Permite la creación de presentaciones basadas en diapositivas o slides para la exposición de información, gráficos, infografías, videos, animaciones, gráficos, etc.
+                td Permite la creación de presentaciones basadas en diapositivas o #[em slides] para la exposición de información, gráficos, infografías, videos, animaciones, gráficos, etc.
                 td.px-4
                   |PowerPoint (Office)
 

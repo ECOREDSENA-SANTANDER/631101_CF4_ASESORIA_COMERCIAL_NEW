@@ -88,7 +88,7 @@
                 | Debe facilitar la localización del producto.
               li
                 i.fas.fa-circle-check
-                | Eliminar las rupturas del stock de inventario.
+                | Eliminar las rupturas del #[em stock] de inventario.
               li
                 i.fas.fa-circle-check
                 | Optimizar la gestión del punto de venta.

@@ -43,10 +43,10 @@
           .bloque-texto-b.p-4
             .bloque-texto-b__texto
               i.fas.fa-quote-left
-              h3.text-regular Para Kotler (2007), en su libro #[em Marketing]; un producto se define como “todo aquello que se puede ofrecer en el mercado para su atención, adquisición, consumo, que satisface un deseo o una necesidad”.
+              h3.text-regular Para Kotler (2007), en su libro Marketing; un producto se define como “todo aquello que se puede ofrecer en el mercado para su atención, adquisición, consumo, que satisface un deseo o una necesidad”.
               i.fas.fa-quote-right
     
-    p Desde la perspectiva de los clientes, se adquieren los productos como un medio para satisfacer sus necesidades, porque con ellos se compran los beneficios que trae consigo cada uno de ellos, es un “satisfactor de su necesidad”. Desde el punto de vista del vendedor, el producto es una herramienta que permite atraer clientes, por eso debe conocer muy bien los atributos del producto para que pueda divulgarlos y darlos a conocer de manera correcta. Desde el mercadeo, el producto es un elemento importante para toda la estrategia que se vaya a diseñar; es decir, el #[em marketing] mix, centra su planificación desde los beneficios del producto para obtener una mayor rentabilidad.
+    p Desde la perspectiva de los clientes, se adquieren los productos como un medio para satisfacer sus necesidades, porque con ellos se compran los beneficios que trae consigo cada uno de ellos, es un “satisfactor de su necesidad”. Desde el punto de vista del vendedor, el producto es una herramienta que permite atraer clientes, por eso debe conocer muy bien los atributos del producto para que pueda divulgarlos y darlos a conocer de manera correcta. Desde el mercadeo, el producto es un elemento importante para toda la estrategia que se vaya a diseñar; es decir, el marketing #[em mix], centra su planificación desde los beneficios del producto para obtener una mayor rentabilidad.
     p El producto es un conjunto de elementos tangibles e intangibles que son percibidos por el cliente como los satisfactores de sus necesidades. El consumidor está en un constante aprendizaje, porque “compran algo más que un producto”, lo que compran es un conjunto de deseos, expectativas, ideales, entre otras cosas que se hacen tangibles con su adquisición.
 
     separador
@@ -120,7 +120,7 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
       .col-lg-12
-        p El departamento de #[em marketing] debe prestar especial atención a estos atributos, enfocando sus esfuerzos en aquellos que sean más importantes para el público objetivo de su producto: el empaque, las garantías, los servicios, así como la marca coadyuvan a impactar el mercado meta.
+        p El departamento de marketing debe prestar especial atención a estos atributos, enfocando sus esfuerzos en aquellos que sean más importantes para el público objetivo de su producto: el empaque, las garantías, los servicios, así como la marca coadyuvan a impactar el mercado meta.
         p Los consumidores se basan en diversas características o diferenciadores para adquirir el producto. A continuación, se enlistan algunos atributos en los que se basan los consumidores para evaluar los productos o servicios, de acuerdo a Mullins (2007): 
 
 
@@ -177,13 +177,13 @@
         img(src='@/assets/curso/temas/Tema2/img013.png', alt='tema2')
       .col-lg-9
         p Los atributos del producto son puntos clave de diferenciación con los productos de la competencia e inciden directamente en la decisión de compra. Atributos como el diseño y el estilo, podrían ser los más importantes al momento de decidir la compra, pero, realmente, son todos los atributos que, en conjunto, motivan al consumidor. 
-        p De otro lado, la empresa concentra su decisión en atributos como la calidad, las características, el diseño, la marca, entre otros, para diseñar diferentes acciones de #[em marketing] que ayuden en la difusión de su estrategia de #[em marketing] en el público meta. Para la empresa, el seleccionar un nombre atractivo, el diseño del envase, diseño de la etiqueta y un conjunto de servicios que acompañen representan factores importantes para diferenciarse de la competencia y diseñar una adecuada estrategia de #[em marketing].
+        p De otro lado, la empresa concentra su decisión en atributos como la calidad, las características, el diseño, la marca, entre otros, para diseñar diferentes acciones de marketing que ayuden en la difusión de su estrategia de marketing en el público meta. Para la empresa, el seleccionar un nombre atractivo, el diseño del envase, diseño de la etiqueta y un conjunto de servicios que acompañen representan factores importantes para diferenciarse de la competencia y diseñar una adecuada estrategia de marketing.
 
     separador
     #t_2_2.titulo-segundo.mb-4
       h2 2.2. Niveles de productos
     
-    p.mb-3 “Un producto es más que una cosa”, es una afirmación dada por el economista Philip Kotler, experto reconocido en el campo del #[em marketing]. El producto debe satisfacer las diferentes necesidades del consumidor y agregar valor (beneficios percibidos) de acuerdo con esto, el autor afirma que existen cinco niveles de productos de acuerdo con el grado de percepción de sus beneficios, indicando así, el valor que el consumidor le asigna al producto. Un consumidor sólo estará satisfecho cuando el valor asignado sea igual o superior al valor esperado. 
+    p.mb-3 “Un producto es más que una cosa”, es una afirmación dada por el economista Philip Kotler, experto reconocido en el campo del marketing. El producto debe satisfacer las diferentes necesidades del consumidor y agregar valor (beneficios percibidos) de acuerdo con esto, el autor afirma que existen cinco niveles de productos de acuerdo con el grado de percepción de sus beneficios, indicando así, el valor que el consumidor le asigna al producto. Un consumidor sólo estará satisfecho cuando el valor asignado sea igual o superior al valor esperado. 
     p A continuación, se presentan los niveles del producto:
     
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
@@ -216,7 +216,7 @@
     
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")
       .col-lg-12
-        p.mb-5 Al conocer el tipo de producto es posible definir cuál es el precio con el que puede lanzarse al mercado, identificar los canales de distribución en los que se puede comercializar, qué tipo de promoción, entre otros factores importantes, que ayudarán a la construcción del plan de #[em marketing].
+        p.mb-5 Al conocer el tipo de producto es posible definir cuál es el precio con el que puede lanzarse al mercado, identificar los canales de distribución en los que se puede comercializar, qué tipo de promoción, entre otros factores importantes, que ayudarán a la construcción del plan de marketing.
  
     separador
     #t_2_4.titulo-segundo.mb-4
@@ -279,7 +279,7 @@
       .col-lg-3.col-8
         img(src='@/assets/curso/temas/Tema2/img16.png', alt='tema2')
 
-    p El empaque fortalece las estrategias de #[em marketing], aunque su objetivo es proteger el producto que lleva dentro, la función principal es promover la venta. 
+    p El empaque fortalece las estrategias de marketing, aunque su objetivo es proteger el producto que lleva dentro, la función principal es promover la venta. 
     p El empaque representa la protección del producto contra factores que puedan afectar sus características físicas de frescura, sabor, color y textura, la comodidad que puede brindar el empaque para el almacenamiento y distribución, facilita el control de inventarios, manipulación y transporte. Así mismo, el empaque presenta información necesaria acerca del uso, los ingredientes y la composición del producto.
     
     separador
@@ -288,7 +288,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
-        p La etiqueta es una parte del producto que usualmente está adherida al envase, y tiene la finalidad de informar al cliente acerca de los principales atributos del producto, principalmente el nombre y la marca. La etiqueta brinda información de las características del producto, como lo son: ingredientes, componentes, peso, tamaño, indicaciones para su uso, modo de empleo, precauciones, fecha de expedición y vencimiento, numero de lote, instrucciones generales, etc. Se debe resaltar que la información de la etiqueta puede cambiar de acuerdo con la normatividad de cada país y el sector de la industria a la que pertenece el producto.
+        p La etiqueta es una parte del producto que usualmente está adherida al envase, y tiene la finalidad de informar al cliente acerca de los principales atributos del producto, principalmente el nombre y la marca. La etiqueta brinda información de las características del producto, como lo son: ingredientes, componentes, peso, tamaño, indicaciones para su uso, modo de empleo, precauciones, fecha de expedición y vencimiento, número de lote, instrucciones generales, etc. Se debe resaltar que la información de la etiqueta puede cambiar de acuerdo con la normatividad de cada país y el sector de la industria a la que pertenece el producto.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-10
@@ -301,7 +301,7 @@
     #t_2_7.titulo-segundo.mb-4
       h2 2.7. Envase
 
-    p Es el contenedor que está en contacto directo con el producto, permite su protección y evita su esparcimiento. Algunos ejemplos de envases son las bolsas de snacks, botellas de agua, la caja de un computador, entre otras. Al igual que el empaque, el envase también cumple la función de ofrecer una presentación adecuada del producto que facilite la venta, la manipulación, el almacenamiento y la distribución.
+    p Es el contenedor que está en contacto directo con el producto, permite su protección y evita su esparcimiento. Algunos ejemplos de envases son las bolsas de #[em snacks], botellas de agua, la caja de un computador, entre otras. Al igual que el empaque, el envase también cumple la función de ofrecer una presentación adecuada del producto que facilite la venta, la manipulación, el almacenamiento y la distribución.
     
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-6
@@ -347,8 +347,8 @@
             .p-4
               .py-4
               br
-              h2.text-center Empaque secundario
-              p Empaque terciario o de transporte Protege al producto al momento de transportarlo, especialmente en exportación o distribución.
+              h2.text-center Empaque terciario
+              p Empaque terciario o de transporte protege al producto al momento de transportarlo, especialmente en exportación o distribución.
     p El embalaje provee mecanismos de protección del producto:
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
@@ -381,7 +381,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         .cajon.color-acento-contenido.p-4.mb-4
-          p La propuesta de ciclo de vida del producto, se le atribuye a Theodore Levitt, publicado en la Harvard Bussines Review. De acuerdo con la teoría de Levitt los productos tienen un ciclo de vida en relación con su permanencia en el mercado, por tanto, podemos hablar de cinco etapas como: desarrollo de producto, introducción, Crecimiento, Madurez y Declive o decadencia. 
+          p La propuesta de ciclo de vida del producto, se le atribuye a Theodore Levitt, publicado en la Harvard Bussines Review. De acuerdo con la teoría de Levitt los productos tienen un ciclo de vida en relación con su permanencia en el mercado, por tanto, podemos hablar de cinco etapas como: desarrollo de producto, introducción, crecimiento, madurez y declive o decadencia. 
 
       .col-lg-9.mb-4
         ImagenInfografica.color-acento-botones.mb-5

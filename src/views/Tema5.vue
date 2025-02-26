@@ -82,7 +82,7 @@
                 td.text-center Meta
                 td Generar un acuerdo.
                 td Que haya un ganador.
-                td SBuen acuerdo entre las partes.
+                td Buen acuerdo entre las partes.
 
               tr
                 td.text-center Relación
