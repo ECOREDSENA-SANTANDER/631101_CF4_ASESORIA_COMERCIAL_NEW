@@ -284,7 +284,7 @@ export default {
     {
       termino: 'Deseos de datos',
       significado:
-        'Forma que adopta la necesidad” convertida en un elemento tangible.',
+        'Forma que adopta la necesidad convertida en un elemento tangible.',
     },
     {
       termino: 'Envase',

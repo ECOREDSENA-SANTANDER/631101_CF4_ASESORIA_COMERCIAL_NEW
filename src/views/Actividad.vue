@@ -24,7 +24,7 @@ export default {
         {
           id: 1,
           texto:
-            'Las necesidades básicas o fisiológicas tienen origen biológico, es decir, del ser humano y están orientadas a su propia supervivencia.',
+            '1. Las necesidades básicas o fisiológicas tienen origen biológico, es decir, del ser humano y están orientadas a su propia supervivencia.',
           imagen: require('@/assets/componentes/pregunta_1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -37,7 +37,7 @@ export default {
         {
           id: 2,
           texto:
-            'Las necesidades de estima o de reconocimiento son categorizadas por Maslow en un solo nivel, que hace referencia al respeto de los demás, tener un estatus, fama, reputación.',
+            '2. Las necesidades de estima o de reconocimiento son categorizadas por Maslow en un solo nivel, que hace referencia al respeto de los demás, tener un estatus, fama, reputación.',
           imagen: require('@/assets/componentes/pregunta_2.png'),
           barajarRespuestas: true,
           opciones: [
@@ -50,7 +50,7 @@ export default {
         {
           id: 3,
           texto:
-            'Según Diez de Castro (2006), las cualidades del surtido se pueden medir a través de cuatro factores: coherencia, rentabilidad, fidelidad y dinamismo.',
+            '3. Según Diez de Castro (2006), las cualidades del surtido se pueden medir a través de cuatro factores: coherencia, rentabilidad, fidelidad y dinamismo.',
           imagen: require('@/assets/componentes/pregunta_3.png'),
           barajarRespuestas: false,
           opciones: [
@@ -63,7 +63,7 @@ export default {
         {
           id: 4,
           texto:
-            'La forma de estar en contacto con los clientes dependerá de los canales, herramientas y estrategias que aplique la empresa para garantizar su plena satisfacción.',
+            '4. La forma de estar en contacto con los clientes dependerá de los canales, herramientas y estrategias que aplique la empresa para garantizar su plena satisfacción.',
           imagen: require('@/assets/componentes/pregunta_4.png'),
           barajarRespuestas: false,
           opciones: [
@@ -76,7 +76,7 @@ export default {
         {
           id: 5,
           texto:
-            'Según Ávila (2008) la negociación es “un proceso en el que dos personas intercambian ideas con la intención de imponer sus relaciones, tendiente a satisfacer necesidades mutuas”.',
+            '5. Según Ávila (2008) la negociación es “un proceso en el que dos personas intercambian ideas con la intención de imponer sus relaciones, tendiente a satisfacer necesidades mutuas”.',
           imagen: require('@/assets/componentes/pregunta_1.png'),
           barajarRespuestas: false,
           opciones: [
@@ -89,7 +89,7 @@ export default {
         {
           id: 6,
           texto:
-            'El precio de compra, los costos de operación, los costos de reparación, los costos extras, los costos de instalación, la rebaja por cambio y probable valor de reventa, tiene que ver con los atributos del producto de:',
+            '6. El precio de compra, los costos de operación, los costos de reparación, los costos extras, los costos de instalación, la rebaja por cambio y probable valor de reventa, tiene que ver con los atributos del producto de:',
           imagen: require('@/assets/componentes/pregunta_2.png'),
           barajarRespuestas: false,
           opciones: [
@@ -104,7 +104,7 @@ export default {
         {
           id: 7,
           texto:
-            'Tipo de producto de consumo que tiene identificación de marca y hay esfuerzo por la compra.',
+            '7. Tipo de producto de consumo que tiene identificación de marca y hay esfuerzo por la compra.',
           imagen: require('@/assets/componentes/pregunta_3.png'),
           barajarRespuestas: false,
           opciones: [
@@ -119,7 +119,7 @@ export default {
         {
           id: 8,
           texto:
-            'Los artículos para reparación, mantenimiento y servicios de negocios son productos industriales de tipo:',
+            '8. Los artículos para reparación, mantenimiento y servicios de negocios son productos industriales de tipo:',
           imagen: require('@/assets/componentes/pregunta_4.png'),
           barajarRespuestas: false,
           opciones: [
@@ -134,13 +134,13 @@ export default {
         {
           id: 9,
           texto:
-            'Conjunto de mercancías o productos que se tienen almacenados en espera de su venta o comercialización.',
+            '9. Conjunto de mercancías o productos que se tienen almacenados en espera de su venta o comercialización.',
           imagen: require('@/assets/componentes/pregunta_1.png'),
           barajarRespuestas: false,
           opciones: [
             { id: 'a', texto: 'Productos de consumo', esCorrecta: false },
             { id: 'b', texto: 'Productos industriales', esCorrecta: false },
-            { id: 'c', texto: 'Stock', esCorrecta: true },
+            { id: 'c', texto: '<i>Stock</i>', esCorrecta: true },
             { id: 'd', texto: 'Productos', esCorrecta: false },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -149,7 +149,7 @@ export default {
         {
           id: 10,
           texto:
-            'Son tres grandes elementos de una propuesta comercial, en su orden:',
+            '10. Son tres grandes elementos de una propuesta comercial, en su orden:',
           imagen: require('@/assets/componentes/pregunta_2.png'),
           barajarRespuestas: false,
           opciones: [
