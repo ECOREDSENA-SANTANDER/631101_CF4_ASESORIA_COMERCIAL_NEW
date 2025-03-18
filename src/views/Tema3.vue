@@ -16,7 +16,7 @@
     
     separador
     #t_3_1.titulo-segundo.mb-4
-      h2  3.1. Estructura del surtido
+      h2  3.1 Estructura del surtido
 
     p De acuerdo con el tamaño del punto de venta y la cantidad de productos que hacen parte del inventario, el surtido se puede estructurar u ordenar en una serie de grupos o niveles que permiten su identificación, clasificación e incluso la localización en el punto de venta. Algunas formas de estructurar el surtido son:
 
@@ -37,7 +37,7 @@
   
     separador
     #t_3_2.titulo-segundo.mb-4
-      h2  3.2. Dimensiones del surtido
+      h2  3.2 Dimensiones del surtido
 
     p El surtido consta de dos dimensiones, la dimensión vertical y la dimensión horizontal que a su vez se divide en tres niveles: amplitud, profundidad y longitud. La combinación de estas variables da como resultado el posicionamiento estratégico de cada formato comercial.
 
@@ -50,7 +50,7 @@
    
     separador
     #t_3_3.titulo-segundo.mb-4
-      h2  3.3. Clasificación del surtido
+      h2  3.3 Clasificación del surtido
 
     p El surtido tiene la siguiente clasificación de acuerdo con su estructura:
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
@@ -75,7 +75,7 @@
 
     separador
     #t_3_4.titulo-segundo.mb-4
-      h2  3.4. Características
+      h2  3.4 Características
 
     .row.justify-content-center(data-aos="fade-left")
       .col-lg-8
@@ -106,7 +106,7 @@
     
     separador
     #t_3_5.titulo-segundo.mb-4
-      h2  3.5. Cualidades del surtido
+      h2  3.5 Cualidades del surtido
 
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-7.mb-5.mb-lg-0
@@ -143,7 +143,7 @@
     
     separador
     #t_3_6.titulo-segundo.mb-4
-      h2  3.6. El lineal  
+      h2  3.6 El lineal  
 
     .row.justify-content-center.mb-5
       .col-lg-8
@@ -155,7 +155,7 @@
 
     separador
     #t_3_7.titulo-segundo.mb-4
-      h2  3.7. Implantación
+      h2  3.7 Implantación
 
     p La implantación de un surtido consiste en la organización de los productos en el lineal de acuerdo con las características del mismo, los intereses del consumidor y el espacio del punto de venta. Para realizar una buena implantación debe tenerse una visión completa del surtido, que incluye, las categorías, familias, subfamilias, referencias, dinamismo y coherencia; es decir, la combinación estratégica de las variables analizadas en este capítulo.
 

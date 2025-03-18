@@ -11,7 +11,7 @@
     
     separador
     #t_7_1.titulo-segundo.mb-4
-      h2 7.1. Clasificación
+      h2 7.1 Clasificación
 
     p Las herramientas ofimáticas podemos clasificarlas así:
     

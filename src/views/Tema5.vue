@@ -15,7 +15,7 @@
       
     separador
     #t_5_1.titulo-segundo.mb-4
-      h2 5.1. Características
+      h2 5.1 Características
     
     p Sin importar el contexto, la negociación cuenta con las siguientes características:
     
@@ -44,7 +44,7 @@
 
     separador
     #t_5_2.titulo-segundo.mb-4
-      h2 5.2. Etapas de la negociación
+      h2 5.2 Etapas de la negociación
 
     p Aunque las fases o etapas de una negociación dependen de los intereses de las partes y tipo de negociación, de acuerdo con Muñiz (2008), del conocimiento y dominio de las fases de la negociación, se puede tener éxito o fracaso en la misma. El proceso de negociación se desarrolla en 4 fases: 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
@@ -56,7 +56,7 @@
 
     separador
     #t_5_3.titulo-segundo.mb-4
-      h2  5.3. Tipos de negociación
+      h2  5.3 Tipos de negociación
     p Se evidencian dos tipos de negociación, la negociación cooperativa y la negociación competitiva. En el siguiente cuadro comparativo se presentan los tipos de negociación y algunos ítems importantes:
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left", alt='La tabla posee 4 columnas y 12 filas, se mencionan doce criterios y para cada uno la descripción en negociación cooperativa, en negociación competitiva y en el método Harvard.')
@@ -69,9 +69,9 @@
             thead
               tr
                 th Característica
-                th Negociación Cooperativa.
-                th Negociación Competitiva.
-                th Método Harvard.
+                th Negociación Cooperativa
+                th Negociación Competitiva
+                th Método Harvard
             tbody
               tr
                 td.text-center Participantes
@@ -133,7 +133,7 @@
             
     separador
     #t_5_4.titulo-segundo.mb-4
-      h2  5.4. Aplicabilidad
+      h2  5.4 Aplicabilidad
 
     p Como se había mencionado, la negociación es un proceso basado en la comunicación recíproca de las partes negociantes mediante el intercambio de propuestas, con el objetivo de llegar a un acuerdo final que los beneficie a ambos.
     p En el ámbito organizacional, la negociación es altamente competitiva y requiere una gran habilidad negociadora. En momentos de recesión económica, una buena negociación adquiere una alta importancia para la empresa.
@@ -145,7 +145,7 @@
             figure
               img.d-none.d-lg-block(src='@/assets/curso/temas/Tema5/img03.png', alt='tema1')
           .col-md.tarjeta.color-primario.p-0.col-lg-7.p-3.pegado
-            h5.my-5.mx-4 #[em Una de las estrategias más importantes para las empresas es la que se denomina “negociación comercial”, la cual requiere de profesionales calificados y capacitados en negociación para aportar beneficios a la empresa para coadyuvar en el alcance de los objetivos organizacionales.]
+            h5.my-5.mx-4 Una de las estrategias más importantes para las empresas es la que se denomina “negociación comercial”, la cual requiere de profesionales calificados y capacitados en negociación para aportar beneficios a la empresa para coadyuvar en el alcance de los objetivos organizacionales.
           
 
 

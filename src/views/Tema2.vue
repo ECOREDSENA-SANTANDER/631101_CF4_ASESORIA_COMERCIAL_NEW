@@ -20,7 +20,7 @@
         .cajon.color-acento-contenido.p-4
           .row.justify-content-center.align-items-center
             .col-lg-8
-              p La American Marketing Asociation (A.M.A.) define producto (en inglés: product) y menciona lo siguiente: “Conjunto de atributos (características, funciones, beneficios y usos) que le dan la capacidad para ser intercambiado o usado. Usualmente, es una combinación de aspectos tangibles e intangibles. Así, un producto puede ser una idea, una entidad física (un bien), un servicio o cualquier combinación de los tres. El producto existe para propósitos de intercambio y para la satisfacción de objetivos individuales y organizacionales”.
+              p La #[em American Marketing Asociation (A.M.A.)] define producto (en inglés: #[em product]) y menciona lo siguiente: “Conjunto de atributos (características, funciones, beneficios y usos) que le dan la capacidad para ser intercambiado o usado. Usualmente, es una combinación de aspectos tangibles e intangibles. Así, un producto puede ser una idea, una entidad física (un bien), un servicio o cualquier combinación de los tres. El producto existe para propósitos de intercambio y para la satisfacción de objetivos individuales y organizacionales”.
             .col-lg-2.col-6.col-sm-5 
               img(src='@/assets/curso/temas/Tema2/img2.png', alt='tema2')
     
@@ -51,7 +51,7 @@
 
     separador
     #t_2_1.titulo-segundo.mb-4
-      h2 2.1. Atributos del producto
+      h2 2.1 Atributos del producto
     
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12
@@ -167,7 +167,7 @@
         .cajon.color-acento-contenido.p-4
           .row.justify-content-center.align-items-center
             .col-lg-8
-              p #[em “La atención a las necesidades del cliente puede orientar a la empresa sobre aquellas características adicionales del producto; desde una descripción mercadológica de calidad, es la capacidad del producto para desarrollar funciones que incluye su duración general, su fiabilidad, su precisión, la facilidad de utilización y reputación del mismo, entre otros atributos de gran importancia” (Kotler, 2007).]
+              p “La atención a las necesidades del cliente puede orientar a la empresa sobre aquellas características adicionales del producto; desde una descripción mercadológica de calidad, es la capacidad del producto para desarrollar funciones que incluye su duración general, su fiabilidad, su precisión, la facilidad de utilización y reputación del mismo, entre otros atributos de gran importancia” (Kotler, 2007).
             .col-lg-2.col-6
               img(src='@/assets/curso/temas/Tema2/img012.png', alt='tema2')
     
@@ -181,7 +181,7 @@
 
     separador
     #t_2_2.titulo-segundo.mb-4
-      h2 2.2. Niveles de productos
+      h2 2.2 Niveles de productos
     
     p.mb-3 “Un producto es más que una cosa”, es una afirmación dada por el economista Philip Kotler, experto reconocido en el campo del marketing. El producto debe satisfacer las diferentes necesidades del consumidor y agregar valor (beneficios percibidos) de acuerdo con esto, el autor afirma que existen cinco niveles de productos de acuerdo con el grado de percepción de sus beneficios, indicando así, el valor que el consumidor le asigna al producto. Un consumidor sólo estará satisfecho cuando el valor asignado sea igual o superior al valor esperado. 
     p A continuación, se presentan los niveles del producto:
@@ -192,7 +192,7 @@
     
     separador
     #t_2_3.titulo-segundo.mb-4
-      h2 2.3. Clasificación de productos
+      h2 2.3 Clasificación de productos
     
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-12
@@ -220,7 +220,7 @@
  
     separador
     #t_2_4.titulo-segundo.mb-4
-      h2 2.4. Características del producto
+      h2 2.4 Características del producto
 
     p Las características generan un cambio en el producto, no lo suficiente para indicar que es un producto diferente, pero sí, que sea susceptible de comercialización. Las características de un producto se dividen en generales y técnicas, como se presenta en la siguiente figura:
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
@@ -258,7 +258,7 @@
 
     separador
     #t_2_5.titulo-segundo.mb-4
-      h2 2.5. Empaque
+      h2 2.5 Empaque
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-9
@@ -284,7 +284,7 @@
     
     separador
     #t_2_6.titulo-segundo.mb-4
-      h2 2.6. Etiqueta
+      h2 2.6 Etiqueta
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
@@ -299,7 +299,7 @@
 
     separador
     #t_2_7.titulo-segundo.mb-4
-      h2 2.7. Envase
+      h2 2.7 Envase
 
     p Es el contenedor que está en contacto directo con el producto, permite su protección y evita su esparcimiento. Algunos ejemplos de envases son las bolsas de #[em snacks], botellas de agua, la caja de un computador, entre otras. Al igual que el empaque, el envase también cumple la función de ofrecer una presentación adecuada del producto que facilite la venta, la manipulación, el almacenamiento y la distribución.
     
@@ -313,7 +313,7 @@
 
     separador
     #t_2_8.titulo-segundo.mb-4
-      h2 2.8. Embalaje
+      h2 2.8 Embalaje
     
     p.mb-4 El embalaje es una forma de empaque que, principalmente, cumple la función de transportar el producto de un lugar a otro, como parte de un proceso logístico. El embalaje no necesariamente es en cajas, también puede ser un envoltorio plástico que se pone alrededor de uno o varios productos envasados o empaquetados.
     p.mb-5 Los embalajes pueden clasificarse en 3 niveles:
@@ -359,7 +359,7 @@
     
     separador
     #t_2_9.titulo-segundo.mb-4
-      h2 2.9. Portafolio de productos     
+      h2 2.9 Portafolio de productos     
     
     .row.align-items-center.justify-content-center.mb-2
       .col-lg-12.col-md-12.col-12
@@ -374,14 +374,14 @@
 
     separador
     #t_2_10.titulo-segundo.mb-4
-      h2 2.10. Ciclo de vida
+      h2 2.10 Ciclo de vida
 
     p En el siguiente recurso se presenta gráficamente el ciclo de vida de un producto:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         .cajon.color-acento-contenido.p-4.mb-4
-          p La propuesta de ciclo de vida del producto, se le atribuye a Theodore Levitt, publicado en la Harvard Bussines Review. De acuerdo con la teoría de Levitt los productos tienen un ciclo de vida en relación con su permanencia en el mercado, por tanto, podemos hablar de cinco etapas como: desarrollo de producto, introducción, crecimiento, madurez y declive o decadencia. 
+          p La propuesta de ciclo de vida del producto, se le atribuye a Theodore Levitt, publicado en la #[em Harvard Bussines Review.] De acuerdo con la teoría de Levitt los productos tienen un ciclo de vida en relación con su permanencia en el mercado, por tanto, podemos hablar de cinco etapas como: desarrollo de producto, introducción, crecimiento, madurez y declive o decadencia. 
 
       .col-lg-9.mb-4
         ImagenInfografica.color-acento-botones.mb-5
