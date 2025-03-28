@@ -238,13 +238,13 @@
         p.bg03.p-2.mb-0 Entre las características generales, tenemos aquellas que son tangibles e intangibles:
     .row.justify-content-center.align-items-center.mb-0
       .col-lg-5.bg01.p-4.text-white
-        h3 Tangibles:
+        h3 Tangibles
         p.mb-0 #[b Precio:] el precio es el monto o valor económico (en moneda) que se asigna a un producto con el fin que pueda ser adquirido por el cliente o consumidor.
         p.mb-0  #[b Diseño:] el diseño en un producto se refiere a la combinación de la tipografía, color, forma, tamaño, material, entre otros, que constituyen el aspecto visual del producto.
         p.mb-0  #[b Envase:] es el contenedor que mantiene o contiene el producto y lo protege de agentes externos.
         p.mb-0  #[b Etiquetado:] es la pieza que completa el empaque de todo tipo de producto, presenta la información de ingredientes, composición, material, instrucciones, entre otras para manipular correctamente el producto.
       .col-lg-5.bg04.p-4
-        h3 Intangibles:
+        h3 Intangibles
         p.mb-0  #[b Calidad:] es la percepción que el cliente tiene del producto en su totalidad, no solo por sus atributos tangibles, sino también por sus beneficios, valores agregados, etc.
         p.mb-0  #[b Marcas o símbolos:] es la imagen que permite que los consumidores identifiquen el producto.
         p.mb-0  #[b Imagen corporativa:] es la identidad visual de la empresa que representa al producto y lo posiciona.
@@ -390,10 +390,10 @@
               img(src='@/assets/curso/temas/Tema2/img21.svg', alt='')
 
           .tarjeta.color-secundarioo.p-3(x="17%" y="71%" numero="")
-            p La etapa de #[b desarrollo del producto], es una etapa previa a la introducción, incluye las fases como la investigación de mercados, el diseño de producto, prototipado, test de usuario, entre otras actividades que identifican la viabilidad del producto. En esta etapa no se generan ingresos o utilidades.
+            p La etapa de desarrollo del producto, es una etapa previa a la introducción, incluye las fases como la investigación de mercados, el diseño de producto, prototipado, test de usuario, entre otras actividades que identifican la viabilidad del producto. En esta etapa no se generan ingresos o utilidades.
 
           .tarjeta.color-secundarioo.p-3(x="38%" y="71%" numero="")
-            p Aspectos clave en la etapa de #[b introducción:]
+            p Aspectos clave en la etapa de introducción:
             ul.lista-ul--color
               li.d-flex.mb-0 
                 i.fas.fa-check-circle
@@ -407,20 +407,20 @@
             
 
           .tarjeta.color-secundarioo.p-3(x="53%" y="71%" numero="")
-            p Aspectos clave en la etapa de #[b crecimiento.]
+            p Aspectos clave en la etapa de crecimiento.
             ul.lista-ul--color
               li.d-flex.mb-0 
                 i.fas.fa-check-circle
                 span.mb-0 Incremento en las ventas
               li.d-flex.mb-0 
                 i.fas.fa-check-circle
-                span.mb-0 #[b Ingreso de nuevos competidores]
+                span.mb-0 Ingreso de nuevos competidores
               li.d-flex.mb-0 
                 i.fas.fa-check-circle
                 span.mb-0 Estabilidad o disminución de precios
               li.d-flex.mb-0 
                 i.fas.fa-check-circle
-                span.mb-0 #[b Educación de los consumidores]
+                span.mb-0 Educación de los consumidores
               li.d-flex.mb-0 
                 i.fas.fa-check-circle
                 span.mb-0 Aumento de las utilidades
@@ -433,7 +433,7 @@
             SlyderF(columnas="col-lg-12 col-xl-12 col-md-12").mb-2
               .row.justify-content-center
                 .col-12.col-lg-12
-                  p Aspectos clave en la etapa de #[b madurez. ]
+                  p Aspectos clave en la etapa de madurez. 
                   ul.lista-ul--color
                     li.d-flex.mb-0.p-1
                       i.fas.fa-check-circle
@@ -443,16 +443,16 @@
                       span.mb-0 Muchos proveedores
                     li.d-flex.mb-0.p-1
                       i.fas.fa-check-circle
-                      span.mb-0 #[b Productos sustitutos]
+                      span.mb-0 Productos sustitutos
                     li.d-flex.mb-0.p-2
                       i.fas.fa-check-circle
                       span.mb-0 Exceso de capacidad fomenta mayor competencia.
                     li.d-flex.mb-0.p-1
                       i.fas.fa-check-circle
-                      span.mb-0 #[b Mayor promoción, investigación y desarrollo para apoyar las ventas y aumentar las utilidades.]
+                      span.mb-0 Mayor promoción, investigación y desarrollo para apoyar las ventas y aumentar las utilidades.
               .row.justify-content-center
                 .col-12.col-lg-12
-                  p  #[b Acciones ]
+                  p  Acciones 
                   ul.lista-ul--color
                     li.d-flex.mb-1
                       i.fas.fa-check-circle
@@ -468,7 +468,7 @@
             SlyderF(columnas="col-lg-12 col-xl-12 col-md-12").mb-2
               .row.justify-content-center
                 .col-12.col-lg-12
-                  p Aspectos clave en la etapa de #[b declive o decadencia.]
+                  p Aspectos clave en la etapa de declive o decadencia.
                   ul.lista-ul--color
                     li.d-flex.mb-0.p-2
                       i.fas.fa-check-circle
@@ -478,7 +478,7 @@
                       span.mb-0 Disminución considerable de ventas, utilidades y posicionamiento.
               .row.justify-content-center
                 .col-12.col-lg-12
-                  p  #[b Acciones ]
+                  p  Acciones 
                   ul.lista-ul--color
                     li.d-flex.mb-1.p-1
                       i.fas.fa-check-circle

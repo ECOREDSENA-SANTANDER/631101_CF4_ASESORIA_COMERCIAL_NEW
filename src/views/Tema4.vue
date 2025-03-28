@@ -15,7 +15,7 @@
     
     separador
     #t_4_1.titulo-segundo.mb-4
-      h2 4.1. Atributos del servicio
+      h2 4.1 Atributos del servicio
 
     p.mb-5 Los atributos del servicio son la filosofía o principios fundamentales que soportan el proceso de interacción entre el prestador de servicio con el cliente y consolidarlo sobre la base de la confianza y la ética. Entre los atributos tenemos:
 
@@ -36,7 +36,7 @@
 
     separador
     #t_4_2.titulo-segundo.mb-4
-      h2 4.2. Características del servicio
+      h2 4.2 Características del servicio
     
     p Aunque muchos de los conceptos relacionados con el servicio al cliente son perceptuales y pueden ser adaptados de acuerdo con cada cliente, siempre encontraremos características comunes, entre ellas:
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left", alt='La tabla posee dos columnas y  8 filas, se definen las características del servicio: disponible, accesible, cortés, ágil, competente, confiable y con buena comunicación.')
@@ -82,7 +82,7 @@
     
     separador
     #t_4_3.titulo-segundo.mb-4
-      h2 4.3. Tipos de servicio al cliente
+      h2 4.3 Tipos de servicio al cliente
 
     p.mb-5 La forma de estar en contacto con los clientes dependerá de los canales, herramientas y estrategias que aplique la empresa para garantizar su plena satisfacción. De acuerdo con lo anterior, podemos representar las formas de atención al cliente, así:
    
