@@ -140,21 +140,21 @@
             .row.justify-content-center.align-items-center(data-aos="fade-right")
               .col-lg-10
                 p.mb-2 Percepción del producto que se crea en la mente del consumidor según la información recibida del producto.
-              .col-lg-2.col-6.col-sm-5
+              .col-lg-2.col-6.col-sm-3
                 img(src='@/assets/curso/temas/Tema2/img08.png', alt='tema2')
           
           .row.col-xl-11.m-auto(titulo="Imagen de la empresa")
             .row.justify-content-center.align-items-center(data-aos="fade-right")
               .col-lg-10
                 p.mb-2 Es una opinión generada en la memoria del mercado que interviene positiva o negativamente en los criterios y actitudes del consumidor hacia los productos. En muchos casos, compramos un producto porque la empresa que lo produce tiene una buena imagen o posicionamiento.
-              .col-lg-2.col-6.col-sm-5
+              .col-lg-2.col-6.col-sm-3
                 img(src='@/assets/curso/temas/Tema2/img09.png', alt='tema2')
           
           .row.col-xl-11.m-auto(titulo="Calidad")
             .row.justify-content-center.align-items-center(data-aos="fade-right")
               .col-lg-10
                 p.mb-2 Es la valoración de los elementos que componen el producto, en relación de unos estándares que miden las cualidades y lo comparan con la competencia.
-              .col-lg-2.col-6.col-sm-5
+              .col-lg-2.col-6.col-sm-3
                 img(src='@/assets/curso/temas/Tema2/img11.png', alt='tema2')        
          
     
@@ -168,12 +168,12 @@
           .row.justify-content-center.align-items-center
             .col-lg-8
               p “La atención a las necesidades del cliente puede orientar a la empresa sobre aquellas características adicionales del producto; desde una descripción mercadológica de calidad, es la capacidad del producto para desarrollar funciones que incluye su duración general, su fiabilidad, su precisión, la facilidad de utilización y reputación del mismo, entre otros atributos de gran importancia” (Kotler, 2007).
-            .col-lg-2.col-6
+            .col-lg-2.col-6.col-md-5
               img(src='@/assets/curso/temas/Tema2/img012.png', alt='tema2')
     
     
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-      .col-lg-3.col-8.mb-2
+      .col-lg-3.col-8.mb-5.col-md-6
         img(src='@/assets/curso/temas/Tema2/img013.png', alt='tema2')
       .col-lg-9
         p Los atributos del producto son puntos clave de diferenciación con los productos de la competencia e inciden directamente en la decisión de compra. Atributos como el diseño y el estilo, podrían ser los más importantes al momento de decidir la compra, pero, realmente, son todos los atributos que, en conjunto, motivan al consumidor. 
@@ -276,7 +276,7 @@
               li
                 i.fas.fa-circle-check
                 | El empaque constituye la envoltura o protección que acompaña al producto y al mismo tiempo, forma parte de sus atributos.
-      .col-lg-3.col-8
+      .col-lg-3.col-8.col-md-6
         img(src='@/assets/curso/temas/Tema2/img16.png', alt='tema2')
 
     p El empaque fortalece las estrategias de marketing, aunque su objetivo es proteger el producto que lleva dentro, la función principal es promover la venta. 

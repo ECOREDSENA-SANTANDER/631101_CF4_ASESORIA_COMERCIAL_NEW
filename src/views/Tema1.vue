@@ -8,7 +8,7 @@
       h1 Las necesidades y el deseo
     
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-      .col-lg-4.col-8.mb-2
+      .col-lg-4.col-8.mb-4.col-md-6
         img(src='@/assets/curso/temas/Tema1/img1.png', alt='')
       .col-lg-8
         p Las necesidades en los seres humanos pueden caracterizarse como estados de carencia se perciben ante diferentes situaciones; las cuales pueden ser de comportamiento, de pensamiento o de adversidades que se presentan. Contrario a otras apreciaciones, las necesidades no son creadas por la publicidad o el mercadeo, pues estas hacen parte de los seres humanos. 
@@ -22,7 +22,7 @@
     p De acuerdo con la imagen, el ser humano satisface las necesidades de forma ascendente, a medida que satisface las básicas, busca por todos los medios satisfacer las siguientes, hasta llegar a la autorrealización.
     
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-      .col-lg-5.mb-2
+      .col-lg-5.mb-5.col-md-8
         img(src='@/assets/curso/temas/Tema1/img2.svg', alt='')
       .col-lg-7
         .row.justify-content-center.align-items-center.mb-5
