@@ -19,7 +19,9 @@ export default {
       titulo: 'Cuestionario',
       introduccion:
         '<b> Objetivo:</b> Apropiarse de los conocimientos asociados a la propuesta comercial de un producto o servicio, así mismo las técnicas de negociación y herramientas para la socialización de esta.',
-      barajarPreguntas: false,
+      titulo_aprobado: '¡BUEN TRABAJO!',
+      titulo_reprobado: 'VUELVA A INTENTARLO',
+      barajarPreguntas: true,
       preguntas: [
         {
           id: 1,
