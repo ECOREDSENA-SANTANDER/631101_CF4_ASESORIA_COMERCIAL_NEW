@@ -20,7 +20,7 @@
         .cajon.color-acento-contenido.p-4
           .row.justify-content-center.align-items-center
             .col-lg-8
-              p La #[em American Marketing Asociation (A.M.A.)] define producto (en inglés: #[em product]) y menciona lo siguiente: “Conjunto de atributos (características, funciones, beneficios y usos) que le dan la capacidad para ser intercambiado o usado. Usualmente, es una combinación de aspectos tangibles e intangibles. Así, un producto puede ser una idea, una entidad física (un bien), un servicio o cualquier combinación de los tres. El producto existe para propósitos de intercambio y para la satisfacción de objetivos individuales y organizacionales”.
+              p La American Marketing Asociation (A.M.A.) define producto (en inglés: #[em product]) y menciona lo siguiente: “Conjunto de atributos (características, funciones, beneficios y usos) que le dan la capacidad para ser intercambiado o usado. Usualmente, es una combinación de aspectos tangibles e intangibles. Así, un producto puede ser una idea, una entidad física (un bien), un servicio o cualquier combinación de los tres. El producto existe para propósitos de intercambio y para la satisfacción de objetivos individuales y organizacionales”.
             .col-lg-2.col-6.col-sm-5 
               img(src='@/assets/curso/temas/Tema2/img2.png', alt='tema2')
     
@@ -381,7 +381,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         .cajon.color-acento-contenido.p-4.mb-4
-          p La propuesta de ciclo de vida del producto, se le atribuye a Theodore Levitt, publicado en la #[em Harvard Bussines Review.] De acuerdo con la teoría de Levitt los productos tienen un ciclo de vida en relación con su permanencia en el mercado, por tanto, podemos hablar de cinco etapas como: desarrollo de producto, introducción, crecimiento, madurez y declive o decadencia. 
+          p La propuesta de ciclo de vida del producto, se le atribuye a Theodore Levitt, publicado en la Harvard Bussines Review. De acuerdo con la teoría de Levitt los productos tienen un ciclo de vida en relación con su permanencia en el mercado, por tanto, podemos hablar de cinco etapas como: desarrollo de producto, introducción, crecimiento, madurez y declive o decadencia. 
 
       .col-lg-9.mb-4
         ImagenInfografica.color-acento-botones.mb-5

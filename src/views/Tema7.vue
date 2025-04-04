@@ -76,7 +76,7 @@
                   br
                   |Impress Presentaciones (Google)
           .py-2
-            p #[b Nota.]  https://www.santanderopenacademy.com/es/blog/herramientas-ofimaticas.html
+            p #[b Nota.] <a href="https://www.santanderopenacademy.com/es/blog/herramientas-ofimaticas.html" target="_blank" rel="noopener noreferrer">https://www.santanderopenacademy.com/es/blog/herramientas-ofimaticas.html</a>
 </template>
 
 <script>
